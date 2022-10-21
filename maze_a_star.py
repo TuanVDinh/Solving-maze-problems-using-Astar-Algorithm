@@ -2,7 +2,22 @@
 # Solving maze problems using A* Algorithm
 # Tuan Van Dinh
 # 29.June.2021
-###########################################
+######################################################################################
+
+######################################################################################
+# Mission: In this game, you have to find a way to move a turtle (red) to a goal (yellow circle)
+# How to control the turtle:
+#	W: UP
+#	S: DOWN
+#	A: LEFT
+#	D: RIGHT
+
+# Press 1, 2, 3 or 4 to choose a maze
+
+# left-click if you want to show the way (displayed in blue) to the goal
+
+# Press c if you want to clear the way to the goal 
+######################################################################################
 
 import turtle                    
 import time
